@@ -2,7 +2,7 @@ body{
 	background:blue;
 }
 
-div#sandbox{
+#sandbox{
 	font-family: “goudy-bookletter-1911-1”, “goudy-bookletter-1911-2”, “Baskerville”,
 	“Georgia”, serif;
 	border: 1px solid rgb(21, 11, 11); 
@@ -18,7 +18,7 @@ div#sandbox{
 	color: black;
 }
 
-head{
+header{
 	margin-top: 0px;
 	margin-bottom: 0px;
 	margin-left: 20px;
