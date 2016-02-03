@@ -30,7 +30,7 @@ header{
 abbr{
 	cursor: help;
 	font-size:  1.3em;
-	background: #ff2166;
+	color: #ff2166;
 	text-decoration: underline 1px color #888;
 }
 
