@@ -31,7 +31,7 @@ abbr{
 	cursor: help;
 	font-size:  1.3em;
 	color: #ff2166;
-	text-decoration: underline 1px color #888;
+	border-bottom: 1px dotted #888;
 }
 
 p{
